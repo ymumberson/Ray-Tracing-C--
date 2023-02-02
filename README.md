@@ -11,5 +11,5 @@ For output images, see the folder "Output Images"
 ## Light spheres at night
 ![Light spheres at night](https://github.com/ymumberson/Ray-Tracing-C--/blob/main/Output%20Images/RandomLightSpheres.png)
 
-## Textture mapped spheres
+## Texture mapped spheres
 ![Texture mapped spheres](https://github.com/ymumberson/Ray-Tracing-C--/blob/main/Output%20Images/Texture%20Mapped%20Image.png)
